@@ -1,6 +1,8 @@
+package codeforces;
+
 import java.util.*;
-// 71-A
-public class Main {
+
+public class CF71 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int t = Integer.parseInt(sc.nextLine());
